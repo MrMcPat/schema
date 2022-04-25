@@ -22,3 +22,6 @@ Viewing other videos and streams.
 
 User streaming functionality.
 
+# Credits
+
+Developed by Patrick Liang and Lynden Lim.
